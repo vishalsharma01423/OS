@@ -1,2 +1,3 @@
 # OS
-making an Hobby os from scratch.
+A git repositry for making an os form scratch.
+Author-vishal sharma
